@@ -8,7 +8,9 @@ body {
  }
  .main-header{
 
- color:greenyellow; 
+ color:rgb(255, 255, 255); 
+ text-align: center;
+ background-image: url() ;
  }
      
  .second-headers{
@@ -16,9 +18,6 @@ body {
   color: black;
  }
 
- h1,h2{
-
-  background-color: cadetblue;
  }
 .backgroundcolor{
   background-color: darkkhaki;
