@@ -1,5 +1,5 @@
 body {
-  background-color: darkgreen;
+  background-color: #00701a;
   color: aliceblue;
   font-size: larger;
   font-family: "Yaldevi", sans-serif;
@@ -7,7 +7,8 @@ body {
 }
 
 h1 {
-  color: antiquewhite;
+  margin: 50px;
+  color: #c8e6c9;
 }
 .background {
   width: 100%;
@@ -20,7 +21,7 @@ h1 {
 }
 
 .second-headers {
-  color: black;
+  color: #000000;
   text-align: center;
   padding: 10px 25px;
 }
