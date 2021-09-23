@@ -12,6 +12,7 @@ h1 {
 }
 .background {
   width: 100%;
+
 }
 .main-header {
   color: rgb(255, 255, 255);
@@ -25,15 +26,14 @@ h1 {
   text-align: center;
   padding: 10px 25px;
 }
-
-.backgroundcolor {
-  background-color: darkkhaki;
+.pics {
+  width: 300px;
 }
-.section1,
-.section2,
-.section3 {
+
+.section {
   padding-bottom: 50px;
   margin: 20px, 30px;
   width: 50vw;
-  border: 5px solid rebeccapurple;
+  border: 5px solid #5bba6f;
+  text-align: center;
 }
