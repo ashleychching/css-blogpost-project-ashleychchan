@@ -1,24 +1,24 @@
 body {
   background-color: #00701a;
-  color: aliceblue;
+  color: darkolivegreen;
+  font-weight: bold;
   font-size: larger;
   font-family: "Yaldevi", sans-serif;
   text-align: center;
 }
 
 h1 {
-  margin: 50px;
+  text-align: center;
   color: #c8e6c9;
 }
 .background {
-  width: 100%;
-
+  width: 50%;
+  margin: auto;
 }
 .main-header {
   color: rgb(255, 255, 255);
   text-align: center;
   font-size: 80px;
-  padding: auto;
 }
 
 .second-headers {
@@ -31,9 +31,7 @@ h1 {
 }
 
 .section {
-  padding-bottom: 50px;
-  margin: 20px, 30px;
-  width: 50vw;
   border: 5px solid #5bba6f;
   text-align: center;
+  background-color: yellowgreen;
 }
