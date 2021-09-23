@@ -2,36 +2,37 @@ body {
   background-color: darkgreen;
   color: aliceblue;
   font-size: larger;
-  font-family: 'Yaldevi', sans-serif;
+  font-family: "Yaldevi", sans-serif;
   text-align: center;
-  margin: 30px
-  
 }
 
- h1{
-     color: antiquewhite;
- }
- .background{
+h1 {
+  color: antiquewhite;
+}
+.background {
   width: 100%;
-  height: au
- }
- .main-header{
+}
+.main-header {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 80px;
+  padding: auto;
+}
 
- color:rgb(255, 255, 255); 
- text-align: center;
- font-size: 80px;
- padding: auto;
-
- }
-     
- .second-headers{
-
+.second-headers {
   color: black;
   text-align: center;
   padding: 10px 25px;
- }
+}
 
- }
-.backgroundcolor{
+.backgroundcolor {
   background-color: darkkhaki;
+}
+.section1,
+.section2,
+.section3 {
+  padding-bottom: 50px;
+  margin: 20px, 30px;
+  width: 50vw;
+  border: 5px solid rebeccapurple;
 }
