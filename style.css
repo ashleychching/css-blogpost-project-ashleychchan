@@ -22,30 +22,30 @@ p {
   width: 50%;
   margin: auto;
 }
-.main-header {
+.block-header {
   color: rgb(255, 255, 255);
   text-align: center;
   font-size: 60px;
 }
 
-.second-headers {
+.block-second-headers {
   color: #464e47;
   text-align: center;
   padding: 10px 25px;
   text-shadow: #568259 1px 3px 2px;
 }
-.pics {
+.block-pics {
   width: 300px;
 }
 
-.section {
+.block-section {
   border: 5px solid #000000;
   text-align: center;
   background-color: #ccfccb;
   padding-bottom: 20px;
   border-radius: 15px;
 }
-.button {
+.link {
   background-color: #00701a; /* Green */
   border: none;
   color: white;
@@ -55,7 +55,7 @@ p {
   font-size: 16px;
   transition-duration: 0.4s;
 }
-.button:hover {
+.link:hover {
   background-color: #4caf50; /* Green */
   color: white;
 }
