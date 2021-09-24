@@ -45,7 +45,7 @@ p {
   padding-bottom: 20px;
   border-radius: 15px;
 }
-.link {
+.block-link {
   background-color: #00701a; /* Green */
   border: none;
   color: white;
@@ -55,7 +55,7 @@ p {
   font-size: 16px;
   transition-duration: 0.4s;
 }
-.link:hover {
+.block-link:hover {
   background-color: #4caf50; /* Green */
   color: white;
 }
